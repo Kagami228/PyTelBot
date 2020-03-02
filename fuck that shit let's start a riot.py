@@ -1,3 +1,5 @@
+#pip install python-telegram-bot --upgrade 
+#pip install apiai
 # Настройки
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import apiai, json
